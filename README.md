@@ -1,0 +1,2 @@
+# BigQ-Opt
+Repository contains the code base for project "INTELLIGENT COST OPTIMIZATION IN CLOUD DATA WAREHOUSES USING AI-DRIVEN APPROACHES"
